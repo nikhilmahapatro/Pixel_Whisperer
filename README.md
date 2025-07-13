@@ -1,4 +1,4 @@
-# PixelWhisperer
+# Pixel Whisperer
 
 *Every pixel has a story. PixelWhisperer lets it speak.*
 
