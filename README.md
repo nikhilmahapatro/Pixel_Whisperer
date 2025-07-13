@@ -20,5 +20,5 @@ PixelWhisperer is an AI-powered image understanding tool that uses Google’s Ge
 - How to interpret and format AI-generated image descriptions
 - How to optionally serve a lightweight UI for demos or user testing
 
----
+
 
