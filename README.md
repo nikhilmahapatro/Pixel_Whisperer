@@ -4,6 +4,8 @@
 
 PixelWhisperer is an AI-powered image understanding tool that uses Google’s Gemini API to generate detailed, human-readable descriptions of uploaded images. Whether it's a photo, diagram, artwork, or UI screenshot, PixelWhisperer breaks it down into meaningful language.
 
+![Demo of Pixel Whisperer]("C:\Users\nikhi\PycharmProjects\NARESH_IT\PROJECTS_NARESH_IT\Pixel_Whisperer_-GenAI\DemoLaunch.png")
+
 ---
 
 ## What this project includes:
